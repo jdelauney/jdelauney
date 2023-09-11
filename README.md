@@ -1,4 +1,4 @@
-[![Les Stats GitHub de JDelauney](https://github-readme-stats.vercel.app/api?username=jdelauney&theme=radical&show_icons=true)](https://github.com/jdelauney/github-readme-stats)
+[![Les Stats GitHub de JDelauney](https://github-readme-stats.vercel.app/api?username=jdelauney&theme=radical&show_icons=true)](https://github.com/jdelauney)
 
 <table>
  <tr>
